@@ -5,7 +5,7 @@
 
   <groupId>com.redwine.web</groupId>
   <artifactId>redwine</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
@@ -189,7 +189,7 @@
   </dependencies>
 
   <build>
-    <finalName>bishun</finalName>
+    <finalName>redwine</finalName>
     <defaultGoal>compile</defaultGoal>
     <plugins>
       <plugin>
@@ -208,7 +208,7 @@
           <archive>
             <addMavenDescriptor>false</addMavenDescriptor>
           </archive>
-          <warName>bishun</warName>
+          <warName>redwine</warName>
         </configuration>
       </plugin>
     </plugins>
