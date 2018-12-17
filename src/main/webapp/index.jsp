@@ -1,16 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
   User: linan
-  Date: 2018-11-12
-  Time: 19:28
+  Date: 2018-12-17
+  Time: 20:39
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title3</title>
+    <title>Title</title>
 </head>
 <body>
-
+     path:index.jsp
 </body>
 </html>
